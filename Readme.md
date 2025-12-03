@@ -38,5 +38,5 @@ cd chat-with-doc
 pip install -r requirements.txt
 streamlit run app.py
 ```
-# Original author : mesutdmn
-# github : https://github.com/mesutdmn/Chat-With-Your-PDF
+## Original author : mesutdmn
+## github : https://github.com/mesutdmn/Chat-With-Your-PDF
